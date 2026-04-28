@@ -1,0 +1,11 @@
+ # Virtual Environment
+demo/
+venv/
+env/
+
+# Database
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
